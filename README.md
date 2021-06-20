@@ -13,3 +13,5 @@ The target variable was binary variable y with value 'yes', when client agreed t
 
 The source of dataset:
 https://archive.ics.uci.edu/ml/datasets/bank+marketing
+
+The inspiration is https://www.kaggle.com/volodymyrgavrysh/bank-marketing-campaigns-dataset
